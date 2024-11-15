@@ -140,5 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 *This project was submitted as part of Hackspire competition under problem statement PS08(8).*
 
-To view the full Project visit the following link:
+Due to storage limitation of Github only parts of the Project is uploaded but for full Project access visit the following link:
+```bash
 https://drive.google.com/drive/folders/1wtIUzd3UcbqAnDkCyK0nvZObLSl0oNFP
+```
