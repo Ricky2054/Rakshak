@@ -129,9 +129,6 @@ npm start
 - Internet connectivity for online features
 - Functional device messaging service
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🎓 Institute Details
 - **Name**: Techno International New Town
 - **Code**: C-6198
