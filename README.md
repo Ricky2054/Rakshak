@@ -138,6 +138,6 @@ npm start
 *This project was submitted as part of Hackspire competition under problem statement PS08(8).*
 
 Due to storage limitation of Github only parts of the Project is uploaded but for full Project access visit the following link:
-```bash
+
 https://drive.google.com/drive/folders/1wtIUzd3UcbqAnDkCyK0nvZObLSl0oNFP
-```
+
